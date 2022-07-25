@@ -149,3 +149,5 @@ Entered password: qwerty123
 | Subtractions                                              | Points |
 | --------------------------------------------------------- | ------ |
 | Consecutive alphabetic characters (qwe, wer, ert and rty) | -20    |
+
+Point score for password qwerty123 is 9 + 10 – 20 = –1 so this is a weak password.
