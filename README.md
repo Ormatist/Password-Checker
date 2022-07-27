@@ -1,4 +1,4 @@
-# Password Checker and Generator
+# ![passwordcheckerbanner](https://user-images.githubusercontent.com/67003539/181284195-47740d55-a5d1-4a4c-9fb6-c12c8667f614.png)
 
 A program needs to be created that allows the user to check the strength of passwords and to
 generate strong passwords.
